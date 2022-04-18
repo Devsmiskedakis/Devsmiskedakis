@@ -6,6 +6,23 @@ I'm a high school student who lives in the Greece. I'm learning how to code. I l
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
+```python
+class SteliosMiskedakis():
+    
+  def __init__(self):
+    self.name = "Stelios Miskedakis";
+    self.username = "Devsmiskedakis";
+    self.location = "Attika, Greece";
+    self.socials = "@devsmiskedakis";
+    self.web = "noyet";
+  
+  def __str__(self):
+    return self.name
+if __name__ == '__main__':
+    me = SteliosMiskedakis()
+```
+
+
 - 🌱 I’m currently learning HTML, CSS, Python
 - 🔭 I’m currently working on creating webpages, My Portfolio and learning how to progam.
 - 😀 I like to Hacking, code, Cooking, and Games in my free time.
