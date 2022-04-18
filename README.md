@@ -29,7 +29,7 @@ class SteliosMiskedakis():
     self.username = "Devsmiskedakis";
     self.location = "Attika, Greece";
     self.socials = "@devsmiskedakis";
-    self.web = "noyet";
+    self.web = "https://linktr.ee/devsmiskedakis";
   
   def __str__(self):
     return self.name
