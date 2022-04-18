@@ -9,7 +9,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 🌱 I’m currently learning HTML, CSS, Python
 - 🔭 I’m currently working on creating webpages, My Portfolio and learning how to progam.
 - 😀 I like to Hacking, code, Cooking, and Games in my free time.
-- 💬 Ask me about fountain pens.
+- 💬 Ask me about anything.
 - ⚡ Fun fact: My first line of code was "Hello World!"
 
 [![Devsmiskedakis's Github Stats](https://github-readme-stats.vercel.app/api?username=devsmiskedakis)](https://github.com/devsmiskedakis/github-readme-stats)
